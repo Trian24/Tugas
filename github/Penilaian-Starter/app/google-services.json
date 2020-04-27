@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "918955660202",
+    "firebase_url": "https://penilaian-starter-kel7.firebaseio.com",
+    "project_id": "penilaian-starter-kel7",
+    "storage_bucket": "penilaian-starter-kel7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918955660202:android:03660502db09f035c0d1d3",
+        "android_client_info": {
+          "package_name": "com.example.penilaian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918955660202-17r3lvgc0o049eplrhb76jirtpdjh36h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.penilaian",
+            "certificate_hash": "29638ed68c4bf113005a395d9d134b68cf2c4f63"
+          }
+        },
+        {
+          "client_id": "918955660202-cu26rpq9rhpurfbnti8qabskmnccvbm6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.penilaian",
+            "certificate_hash": "63edcbf53ad1c13ce136285f617809b8b13a0560"
+          }
+        },
+        {
+          "client_id": "918955660202-gu47fbaap2olubr8q9qgj7serph986ud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5fPRbROKFV2I35tF2FoVfbJ0r4eNsNAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918955660202-gu47fbaap2olubr8q9qgj7serph986ud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
